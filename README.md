@@ -1,3 +1,3 @@
 # new-repo
 My new repo
-Author - Ayush Raj
+Author - Ayush Raj Hero
